@@ -1,4 +1,4 @@
-You can visit the [demo](https://exponentia-challenge.web.app/).
+You can visit the demo [here](https://exponentia-challenge.web.app/).
 
 # Getting Started with Create React App
 
