@@ -11,6 +11,8 @@ package-lock.json
 
 # production
 /build
+.github
+.firebase
 
 # misc
 .DS_Store
